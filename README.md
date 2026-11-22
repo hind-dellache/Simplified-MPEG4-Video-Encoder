@@ -1,6 +1,8 @@
 
 # MPEG-4 Video Encoding Pipeline
 
+A mini-project developed as part of the Multimedia Systems course (Master 1 IL, USTHB, 2025–2026).
+
 This project implements a simplified MPEG-4-inspired video encoder and decoder in Python. It takes a sequence of images as input and generates a compressed binary `.bin` file, which can later be decoded to reconstruct the original frames.
 
 ### Key Features
@@ -28,9 +30,3 @@ Run the decoder:
 ```bash
 python main_decode.py
 ```
-
-### Contributors
-- **Hind Dellache**
-- **Sarah Benchabane**
-
-**Supervisor:** B. Abadli
